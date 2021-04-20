@@ -1,0 +1,68 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Apr 19 15:50:41 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x0000f4
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x00010b      
+            250 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   AGAIN5   0x0000da    program     static D:\microP\trafficlight.asm
+                   AGAIN6   0x0000de    program     static D:\microP\trafficlight.asm
+                      ALL   0x00007e    program     static D:\microP\trafficlight.asm
+                     CONT   0x0000be    program     static D:\microP\trafficlight.asm
+                   COUNT1   0x0000aa    program     static D:\microP\trafficlight.asm
+                   COUNT2   0x0000c2    program     static D:\microP\trafficlight.asm
+                   COUNT3   0x000082    program     static D:\microP\trafficlight.asm
+                    DELAY   0x0000d6    program     static D:\microP\trafficlight.asm
+                 DISPLAY1   0x0000ae    program     static D:\microP\trafficlight.asm
+                 DISPLAY2   0x0000c6    program     static D:\microP\trafficlight.asm
+                 DISPLAY3   0x000086    program     static D:\microP\trafficlight.asm
+                    FIRST   0x0000a6    program     static D:\microP\trafficlight.asm
+                     led1   0x000096    program     static D:\microP\trafficlight.asm
+                      ped   0x00006c    program     static D:\microP\trafficlight.asm
+               pedestrian   0x00005e    program     static D:\microP\trafficlight.asm
+                    start   0x00001a    program     static D:\microP\trafficlight.asm
+                  traffic   0x000024    program     static D:\microP\trafficlight.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static D:\microP\trafficlight.asm
+                  traffic   0x000024    program     static D:\microP\trafficlight.asm
+               pedestrian   0x00005e    program     static D:\microP\trafficlight.asm
+                      ped   0x00006c    program     static D:\microP\trafficlight.asm
+                      ALL   0x00007e    program     static D:\microP\trafficlight.asm
+                   COUNT3   0x000082    program     static D:\microP\trafficlight.asm
+                 DISPLAY3   0x000086    program     static D:\microP\trafficlight.asm
+                     led1   0x000096    program     static D:\microP\trafficlight.asm
+                    FIRST   0x0000a6    program     static D:\microP\trafficlight.asm
+                   COUNT1   0x0000aa    program     static D:\microP\trafficlight.asm
+                 DISPLAY1   0x0000ae    program     static D:\microP\trafficlight.asm
+                     CONT   0x0000be    program     static D:\microP\trafficlight.asm
+                   COUNT2   0x0000c2    program     static D:\microP\trafficlight.asm
+                 DISPLAY2   0x0000c6    program     static D:\microP\trafficlight.asm
+                    DELAY   0x0000d6    program     static D:\microP\trafficlight.asm
+                   AGAIN5   0x0000da    program     static D:\microP\trafficlight.asm
+                   AGAIN6   0x0000de    program     static D:\microP\trafficlight.asm
+
+
